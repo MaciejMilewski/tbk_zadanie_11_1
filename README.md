@@ -15,4 +15,4 @@ docker network remove nat
 #### Prometheus
 ![](images/p.jpg)
 #### Grafana
-![](images/grafana.jpg)
+![](images/grafana2.jpg)
